@@ -1,0 +1,15 @@
+/Users/pipiskop/Projects/programma/programma/bin/Debug/net6.0/programma
+/Users/pipiskop/Projects/programma/programma/bin/Debug/net6.0/programma.deps.json
+/Users/pipiskop/Projects/programma/programma/bin/Debug/net6.0/programma.runtimeconfig.json
+/Users/pipiskop/Projects/programma/programma/bin/Debug/net6.0/programma.dll
+/Users/pipiskop/Projects/programma/programma/bin/Debug/net6.0/programma.pdb
+/Users/pipiskop/Projects/programma/programma/obj/Debug/net6.0/programma.csproj.AssemblyReference.cache
+/Users/pipiskop/Projects/programma/programma/obj/Debug/net6.0/programma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Projects/programma/programma/obj/Debug/net6.0/programma.AssemblyInfoInputs.cache
+/Users/pipiskop/Projects/programma/programma/obj/Debug/net6.0/programma.AssemblyInfo.cs
+/Users/pipiskop/Projects/programma/programma/obj/Debug/net6.0/programma.csproj.CoreCompileInputs.cache
+/Users/pipiskop/Projects/programma/programma/obj/Debug/net6.0/programma.dll
+/Users/pipiskop/Projects/programma/programma/obj/Debug/net6.0/refint/programma.dll
+/Users/pipiskop/Projects/programma/programma/obj/Debug/net6.0/programma.pdb
+/Users/pipiskop/Projects/programma/programma/obj/Debug/net6.0/programma.genruntimeconfig.cache
+/Users/pipiskop/Projects/programma/programma/obj/Debug/net6.0/ref/programma.dll
